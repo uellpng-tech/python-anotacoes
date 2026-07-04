@@ -1,0 +1,8 @@
+mdmt = input ('digite algo')
+print ('todas as informações sobre a baixo')
+print (mdmt.isnumeric())
+print (mdmt.isalpha())
+print (mdmt.isalnum())
+print (mdmt.isdecimal())
+print (mdmt.isdigit())
+print (mdmt.isidentifier())
