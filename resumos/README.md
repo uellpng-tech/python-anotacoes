@@ -1,4 +1,4 @@
 # Resumos das aulas de Python
 
 ## Conteúdos
-- [Preparando o ambiente](preparando-o-ambiente)
+- [Preparando o ambiente](preparando-o-ambiente.md)
