@@ -1,20 +1,13 @@
-lista = []
-
-while True:
-    v = int(input("Digite um valor: "))
-    c = input("Deseja contiuar S/N: ").upper()
-    lista.append(v)
-
-    if c == "N":
-        print("Números de valores adicionados:",len(lista))
-        lista.sort(reverse=True)
-        if 5 in lista:
-            print(lista)
-            print("O valor 5 foi digitado e está na lista")
-        else:
-            print(lista)
-        break
-
-    if c != "S" and c != "N":
-        print("Apenas S ou N")
-
+l = []
+for n in range (0,5):
+    n = int(input("Digite um número: "))
+    if len(l) == 0 or n > l[-1]:
+        l.append(n)
+    else:
+        pos = 0
+        while pos < len(l):
+            if n <= l[pos]:
+                l.insert(pos, n)
+                break
+            pos += 1
+print(l)

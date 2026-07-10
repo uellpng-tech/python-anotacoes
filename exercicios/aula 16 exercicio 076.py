@@ -1,4 +1,4 @@
-listagem = ['jubileu',2.50,'quanzas',500,'cogumelo',1.50,'crack', 9.00]
+listagem = ['jubileu',2.50,'quanzas',500,'cogumelo',1.50,'todinho', 9.00]
 
 c = 0
 co = 0

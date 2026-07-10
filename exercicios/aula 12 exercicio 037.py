@@ -1,1 +1,1 @@
-#guanabara falou para pular  ver a resosta
+#guanabara falou para pular  ver a resposta
