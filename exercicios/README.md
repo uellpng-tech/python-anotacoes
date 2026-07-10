@@ -117,3 +117,6 @@
 * [Exercício 078](./aula%2017%20exercicio%20078.py)
 * [Exercício 079](./aula%2017%20exercicio%20079.py)
 * [Exercício 080](./aula%2017%20exercicio%20080.py)
+* [Exercício 081](./aula%2017%20exercicio%20081.py)
+* [Exercício 082](./aula%2017%20exercicio%20082.py)
+* [Exercício 083](./aula%2017%20exercicio%20083.py)
