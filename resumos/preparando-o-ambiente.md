@@ -11,3 +11,7 @@ Exemplo:<br>
 ## IDEs (Editor de código)
 
 O editor de código depende muito do usuário. Apesar de ser uma escolha individual, podemos observar alguns aspectos que ajudam na escolha de uma IDE confortavél para você, sempre é bom verificar a facilidade de uso, ir testando e baixando ajuda muito a se encontrar, principalmente quando está aprendendo sua primeira linguagem, além disso verifique também o desempenho os recursos disponiveis e a integração com as ferramentas. Dito isso, pesquise uma IDE boa e teste para melhorar seu aprendizado.
+
+## Criação de Scripts em Python
+
+Para criar os scripts e efetuar testes ao decorrer das aulas precisamos criar um certo tipo de arquivo. Dentro dos editores de código criamos uma pasta que vai ser onde podemos guardar os nosso scripts e dentro da pasta criamos um arquivo com a extensão ".py" assim o arquivo vai ser identificado com um arquivo Python possibilitando a edição e execução do Python sem erro.
